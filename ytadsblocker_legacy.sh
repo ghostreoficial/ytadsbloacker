@@ -4,7 +4,7 @@
 
 YTADSBLOCKER_VERSION="legacy"
 YTADSBLOCKER_LOG="/var/log/ytadsblocker.log"
-YTADSBLOCKER_GIT="https://raw.githubusercontent.com/deividgdt/ytadsblocker/master/ytadsblocker.sh"
+YTADSBLOCKER_GIT="https://raw.githubusercontent.com/ghostreoficial/ytadsbloacker/refs/heads/main/ytadsblocker.sh"
 SLEEPTIME="240"
 DIR_LOG="/var/log"
 PI_LOG="/var/log/pihole.log"
