@@ -4,7 +4,7 @@
 
 YTADSBLOCKER_VERSION="3.8.1"
 YTADSBLOCKER_LOG="/var/log/ytadsblocker.log"
-YTADSBLOCKER_GIT="https://raw.githubusercontent.com/deividgdt/ytadsblocker/master/ytadsblocker.sh"
+YTADSBLOCKER_GIT="https://raw.githubusercontent.com/ghostreoficial/ytadsbloacker/refs/heads/main/ytadsblocker.sh"
 VERSIONCHECKER_TIME="280"
 SLEEPTIME="300"
 DIR_LOG="/var/log"
